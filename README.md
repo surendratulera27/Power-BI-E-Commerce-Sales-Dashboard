@@ -1,7 +1,7 @@
 # Power-BI-E-Commerce-Sales-Dashboard
 The E-Commerce Sales Dashboard is an interactive Power BI report designed to analyze and visualize sales performance. The dashboard helps stakeholders track revenue, profit, quantity sold and order placed that enabling data-driven business decisions.
 
-Dataset "Details.csv" & "Orders.csv" linked by common column "Order_ID"
+Dataset "Details.csv" & "Orders.csv" linked by common column "Order ID"
 
 1.Data Cleaning : Power Query Editor(Transform)
 2.Data Visualization(Dashboard) : Power Pivot(Load)
